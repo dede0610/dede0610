@@ -8,7 +8,6 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
 🎓 Graduated from a top engineering school in 2021 (Centrale Marseille, France) - Master with major in Computer Science and minor in Finance.  
@@ -34,7 +33,7 @@ Since February 2025, I have been working at EY Melbourne.
 
 ---
 
-## 🔥 My Projects
+## 🔥 My Personal Projects
 
 | | |
 |---|---|
