@@ -1,6 +1,6 @@
-![GitHub](https://img.shields.io/badge/github-home-blue?logo=github)
+![GitHub](https://img.shields.io/badge/github-Dorian.D-blue?logo=github)
 
-# 👋 Hi, I'm Dorian! 
+# 👋 Hi, Welcome to my profile!
 
 📍 Melbourne, Australia | 💻 Data Engineer
 
@@ -8,15 +8,14 @@
 
 ---
 
-## 🔥 My Projects
 
-| | |
-|---|---|
-| [**Yt_streamit**](https://github.com/dede0610/Yt_streamlit) | Streamlit app to download YouTube Videos |
-| [**chess-etl-project**](https://github.com/dede0610/chess-etl-project) | The project connects to the Chess.com API to fetch player statistics and displays the data in a user-friendly Streamlit interface. Users can query the data using SQL through the Streamlit interface. |
-| [**tbd**](xxx) | xxx |
-| [**tbd**](xxx) | xxx |
+## 👨‍💻 About Me
 
+🎓 Graduated from a top engineering school in 2021 (Centrale Marseille, France) - Master with major in Computer Science and minor in Finance.  
+💡 I'm a tech enthusiast passionate about Data Engineering, Data Platform, and Cloud solutions.  
+🔭 I started my career as an actuary at Deloitte Paris back in 2021, then chose to pivot toward data. I joined EY Paris as a junior consultant, where I grew into a senior consultant role over the following years.
+After three years at EY Paris, I made the big move to Australia - a country that has long felt like home to me.
+Since February 2025, I have been working at EY Melbourne.
 
 
 ---
@@ -35,4 +34,10 @@
 
 ---
 
+## 🔥 My Projects
 
+| | |
+|---|---|
+| [**Sales_Dashboard**](https://github.com/dede0610/Sales_Dashboard) | Generation of dummies sales data and creation of a Streamlit interactive Dashboard. |
+| [**Youtube_Downloader**](https://github.com/dede0610/Youtube_Downloader) | Creation of a Streamlit app to download YouTube Videos on your laptop for free. |
+| [**Chess_ETL**](https://github.com/dede0610/Chess_ETL) | Connection to the Chess.com API to fetch player statistics and displays the data in a user-friendly Streamlit interface. Provide users with the possibility to query the data using SQL through the interface. |
