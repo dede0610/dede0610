@@ -35,7 +35,7 @@ Since February 2025, I have been working at EY Melbourne.
 
 | | | |
 |---|---|---|
-| [**Weather_Notification**](https://github.com/dede0610/Weather_Notification) | Creation of a weather data pipeline: pull data from the Open Meteo API (temperature, uv index, precipitation), transform, load and generate some alert a;erts (push notifications, gmail, discord, slack) when values over a certain threshold. | ![Python](https://img.shields.io/badge/python-black?logo=python&logoColor=white) |
+| [**Weather_Notification**](https://github.com/dede0610/Weather_Notification) | Creation of a weather data pipeline: pull data from the Open Meteo API (temperature, uv index, precipitation), transform, load and generate some alerts (push notifications, gmail, discord, slack) when values over a certain threshold.|
 | [**Sales_Dashboard**](https://github.com/dede0610/Sales_Dashboard) | Generation of dummies sales data with python and creation of a Streamlit interactive Dashboard. |
 | [**Youtube_Downloader**](https://github.com/dede0610/Youtube_Downloader) | Creation of a Streamlit app to download YouTube Videos on your laptop for free. |
 | [**Chess_ETL**](https://github.com/dede0610/Chess_ETL) | Connection to the Chess.com API to fetch player statistics and displays the data in a user-friendly Streamlit interface. Provide users with the possibility to query the data using SQL through the interface. |
