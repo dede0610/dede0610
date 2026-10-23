@@ -8,11 +8,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 Graduated from a top engineering school in 2021 (Centrale Marseille, France) - Master with major in Computer Science and minor in Finance.  
+🎓 Graduated from a top engineering school in 2021 (Centrale Marseille, France) - Master with major in Data Science and minor in Finance.  
 💡 I'm a tech enthusiast passionate about Data Engineering, Data Platform, and Cloud solutions.  
 🔭 I started my career as an actuary at Deloitte Paris back in 2021, then chose to pivot toward data. I joined EY Paris as a junior consultant, where I grew into a senior consultant role over the following years.
-After three years at EY Paris, I made the big move to Australia - a country that has long felt like home to me.
-Since February 2025, I have been working at EY Melbourne.
+After three years at EY Paris, I made the big move to Australia. Since February 2025, I've been working at EY Melbourne as a Data Engineer.
 
 
 ---
